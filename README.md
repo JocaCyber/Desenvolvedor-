@@ -12,5 +12,5 @@ Este é um projeto que contém várias soluções de algoritmos em Python.
 ## Como Usar
 
 1. Clone o repositório:
-   ```bash
+   ```bash C:\Users\Usuário\Desenvolvedor>
   git clone https://github.com/JocaCyber/Desenvolvedor-.git
